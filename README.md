@@ -8,5 +8,6 @@ command: clang++ inputFile.cpp -o outputFilename -std=c++11
 command: clang++ inputFile.cpp -o outputFilename -std=c++14
 
 // take aways
-Cout is character output stream.
+cout is character output stream.
+cin is character input stream.
 Header contains definitions of terms such as cout.
