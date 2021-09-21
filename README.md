@@ -1,4 +1,4 @@
-To compile the program/source code use, clang++ or gcc++
+To compile the program/source code use, clang++ or g++
 
 // for compiler c++11
 // replacing clang++ with c++ or g++ will also work
