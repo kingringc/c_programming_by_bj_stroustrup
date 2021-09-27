@@ -14,7 +14,7 @@ int main() {
 	cout << "Compiler translates human redable code or source code in to executable or object code or machine code";
 	cout << " which machine/computer can understand.\n\n";
 	// compile-time error
-	cout << "Erros found by compiler are compile-time error\n\n";
+	cout << "Errors found by compiler are compile-time error.\n\n";
 	// cout
 	cout << "cout refers to a standard output stream.";
 	cout << " cout is a abbrevation of \'Character Ouput Stream\'.\n\n";
@@ -26,7 +26,7 @@ int main() {
 	cout << "A file included using #include with suffix .h is called header file, header file contains definition of terms,";
 	cout << " such as cout.\n\n";
 	// executable
-	cout << "Final output of compiler is executable ot object code ot machine code, which a computer a run or execute on demand.\n\n";
+	cout << "Final output of compiler is executable or object code ot machine code, which a computer a run or execute on demand.\n\n";
 	// IDE
 	cout << "IDE is Integrated/Interactive Development Environment is a editor with all features to build, run, scan, spellchek used by many software professionals.\n\n";
 	// #include
