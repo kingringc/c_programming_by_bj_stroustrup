@@ -20,7 +20,7 @@
 * Final output of compiler is executable or object code ot machine code, which a computer a run or execute on demand.
 * IDE is Integrated/Interactive Development Environment is a editor with all features to build, run, scan, spellchek used by many software professionals.
 * #include directive instructs the computer to make available (to include) facilities from ****.h or within <> angle brackets.
-* Library is some code written by other developers that we access using #include ***.h.
+* Library is some code written by other developers that we access using #include something.h.
 * Linker takes care of linking of compiled object code units to form a executable. A program usally consists of several units, often developed by different people, for example \'Hello World!\' program plus the std library, these two separate parts must be compiled and the resulting object codes linked together to form an executable file/program.
 * Main is a special function, every c++ executable program must have, to tell it where to start executing.
 * Object code is output of compilation process for Linux and Unix systems.
@@ -32,4 +32,5 @@
 * A Variable is a named Object.
 * A statement that introduces a new name in to a program and sets aside memory for a variable is called definition.
 * The data item that goes in to variable is called as value.
-*
+* Initialization is when a variable gets initial value.
+* Assignment is when a variable gets new value.
