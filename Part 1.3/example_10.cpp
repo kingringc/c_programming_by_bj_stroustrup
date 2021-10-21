@@ -5,9 +5,9 @@
 int main() {
 	string previous = " ";
 	string current;
-	while(cin >> current) {
+	while (cin >> current) {
 		if (previous == current) {
-			cout << "Repeated word: " << current << "\n";
+			cout << "Repeated word: " << current << endl;
 		}
 		previous = current;
 	}
